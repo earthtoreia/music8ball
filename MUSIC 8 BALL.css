@@ -3,21 +3,19 @@ font-face {
     src: url('Gameplay.ttf');
   }
 body {
-    font-family: 'Gameplay';
+    font-family: "Gameplay";
     background-color:black;
-    background-image: -moz-linear-gradient();
     color:#faebd7;
 }
 p 
 {
-font-family: 'Gameplay';
+font-family: "Gameplay";
 }
 
 h1
 {
- font-family: 'Gameplay';
+ font-family: "Gameplay";
 }
-{ cursor: url('YourCursorImage.png'), auto; }
 
 .typewriter {
     overflow: hidden; /* Ensures the content is not revealed until the animation */
