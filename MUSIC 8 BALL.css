@@ -1,13 +1,13 @@
+font-face {
+    font-family: "Gameplay";
+    src: url('Gameplay.ttf');
+  }
 body {
     font-family: 'Gameplay';
     background-color:black;
     background-image: -moz-linear-gradient();
     color:#faebd7;
 }
-font-face {
-    font-family: "Gameplay";
-    src: url('Gameplay.ttf');
-  }
 p 
 {
 font-family: 'Gameplay';
